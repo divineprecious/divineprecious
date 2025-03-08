@@ -2,4 +2,4 @@
 - 👀 I’m interested in Full Stack Development and ML
 - 💞️ I’m looking to collaborate on software development and research projects as well as hackathons
 - 📫 How to reach me divinepreciousesue@gmail.com
-- 😄 Pronouns: they/he
+- 😄 Pronouns: they/them
